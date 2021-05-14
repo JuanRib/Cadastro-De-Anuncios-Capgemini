@@ -5,8 +5,11 @@
 <a>Objetivo</a>|
 <a>Requisitos</a>|
 <a>Tecnologia</a>|
-<a>Autor</a>|
+<a>Autor</a>
 </p>
+
+###  Objetivo
+Criar um sistema que permite o cadastro de anuncio e  retorna um relatorio, com algumas informações  que podem ser filtradas por data  e  cliente.
 
 
 ### Requisitos
