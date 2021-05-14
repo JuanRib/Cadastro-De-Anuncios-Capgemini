@@ -48,6 +48,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Junit](Para fazer testes unitarios)
 - [JavaDoc](Para gerar a documentação)
 
-<a>
-Autor: Juan Ribeiro Silva Pereira
-</a>
+###  Autor: Juan Ribeiro Silva Pereira
