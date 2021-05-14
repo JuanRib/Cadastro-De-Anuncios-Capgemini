@@ -8,8 +8,8 @@
 <a>Autor</a>
 </p>
 
-<a>Requisitos</a>
-### Pré-requisitos
+
+### Requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
 [Eclipse](https://www.eclipse.org/). 
@@ -17,10 +17,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 ### 🎲 Rodando o Desafio
 
 # Clone este repositório
-$ git clone <https://github.com/JuanRib/Cadastro-De-Anuncios-Capgemini.git>
+<https://github.com/JuanRib/Cadastro-De-Anuncios-Capgemini.git>
 
-# Acesse a classe AnuncioController
-$ Execute está classe:
+# Acesse a classe e a execute AnuncioController
+Execute está classe:
+
 <a>Preencha as perguntas solictadas via Console do eclipse, e veja o resultado dos filtros,
 o banco foi populado pelo autor.
 </a>
@@ -43,3 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [H2](Banco de dados em meoria)
 - [Junit]
 - [JavaDoc]
+
+<a>
+Autor: Juan Ribeiro Silva Pereira
+</a>
