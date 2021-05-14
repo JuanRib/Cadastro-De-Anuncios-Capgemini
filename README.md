@@ -2,10 +2,10 @@
 <p align="center">Projeto do desafio de programação da empresa Capgemini</p>
 
 <p align ="center">
-<a>Objetivo</a>
-<a>Requisitos</a>
-<a>Tecnologia</a>
-<a>Autor</a>
+<a>Objetivo</a>|
+<a>Requisitos</a>|
+<a>Tecnologia</a>|
+<a>Autor</a>|
 </p>
 
 
@@ -14,7 +14,7 @@
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
 [Eclipse](https://www.eclipse.org/). 
 
-### 🎲 Rodando o Desafio
+###  Rodando  o desafio
 
 # Clone este repositório
 <https://github.com/JuanRib/Cadastro-De-Anuncios-Capgemini.git>
@@ -35,15 +35,15 @@ Utilizado banco de dados em memoria H2 para agilizar o processo de desenvolvimen
 	Status: Desafio de programação finalizado
 </h4>
 
-### 🛠 Tecnologias
+###  Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Eclipse](https://www.eclipse.org/)
-- [Hibernate]
-- [H2](Banco de dados em meoria)
-- [Junit]
-- [JavaDoc]
+- [Hibernate](Facilitar a persistencia no banco de dados)
+- [H2](Banco de dados em memoria)
+- [Junit](Para fazer testes unitarios)
+- [JavaDoc](Para gerar a documentação)
 
 <a>
 Autor: Juan Ribeiro Silva Pereira
