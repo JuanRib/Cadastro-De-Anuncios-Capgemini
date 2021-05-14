@@ -47,5 +47,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [H2](Banco de dados em memoria)
 - [Junit](Para fazer testes unitarios)
 - [JavaDoc](Para gerar a documentação)
+- [Maven](Para gerenciar dependencias)
 
 ###  Autor: Juan Ribeiro Silva Pereira
