@@ -29,7 +29,7 @@ Execute está classe:
 o banco foi populado pelo autor, toda documentação está na pasta doc  e  foi gerada pelo javaDoc.
 </a>
 <a>
-Utilizado banco de dados em memoria H2 para agilizar o processo de desenvolvimento.
+O banco de dados  escolhido  foi o banco de dados em memoria , H2  para agilizar o processo de desenvolvimento.
 </a>
 
 
