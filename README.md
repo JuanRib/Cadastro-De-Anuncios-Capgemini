@@ -26,7 +26,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 Execute está classe:
 
 <a>Preencha as perguntas solictadas via Console do eclipse, e veja o resultado dos filtros no console,
-o banco foi populado pelo autor.
+o banco foi populado pelo autor, toda documentação está na pasta doc  e  foi gerada pelo javaDoc.
 </a>
 <a>
 Utilizado banco de dados em memoria H2 para agilizar o processo de desenvolvimento.
