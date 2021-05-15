@@ -25,7 +25,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 # Acesse a classe e a execute AnuncioController
 Execute está classe:
 
-<a>Preencha as perguntas solictadas via Console do eclipse, e veja o resultado dos filtros,
+<a>Preencha as perguntas solictadas via Console do eclipse, e veja o resultado dos filtros no console,
 o banco foi populado pelo autor.
 </a>
 <a>
